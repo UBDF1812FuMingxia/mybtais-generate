@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<request>
+    <returnOrder>
+        <returnOrderCode>21042314271671754</returnOrderCode>
+        <warehouseCode>wms_lt_yimeiWDT</warehouseCode>
+        <returnOrderId>642</returnOrderId>
+        <senderInfo>
+            <name>张三</name>
+            <mobile>13245659080</mobile>
+            <province>山西省</province>
+            <city>太原市</city>
+            <area>海淀区</area>
+            <detailAddress>1号楼</detailAddress>
+        </senderInfo>
+    </returnOrder>
+    <orderLines>
+        <orderLine>
+            <itemCode>5KSM3311XCHW</itemCode>
+            <itemId>1014671</itemId>
+            <actualQty>50</actualQty>
+        </orderLine>
+    </orderLines>
+</request>
