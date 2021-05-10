@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<request>
+    <deliveryOrder>
+        <deliveryOrderCode>CK21050716530409984</deliveryOrderCode>
+        <deliveryOrderId>DD2021050716424</deliveryOrderId>
+        <warehouseCode>NJTZ001 </warehouseCode>
+        <orderType>JYCK</orderType>
+        <status>DELIVERED</status>
+        <outBizCode>null</outBizCode>
+    </deliveryOrder>
+    <packages>
+        <package>
+            <logisticsCode>YUNDA</logisticsCode>
+            <logisticsName>韵达快递</logisticsName>
+            <expressCode>运单号, string (50) , 必填</expressCode>
+            <items>
+                <item>
+                    <itemCode>012914482001</itemCode>
+                    <quantity>1</quantity>
+                </item>
+            </items>
+        </package>
+    </packages>
+</request>
