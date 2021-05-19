@@ -2,6 +2,7 @@ package com.dao;
 
 import com.model.Role;
 
+
 public interface RoleMapper {
     int deleteByPrimaryKey(Long id);
 

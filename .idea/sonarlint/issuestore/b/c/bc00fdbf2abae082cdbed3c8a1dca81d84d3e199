@@ -1,0 +1,11 @@
+
+P
+java:S11415"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+o	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(­ÛÜ›
+]	java:S125"<This block of commented-out lines of code should be removed.(ïÎ°Úùÿÿÿÿ8ç²ÿÏ–/
+o	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(‡øå«
+Z
+java:S2147>"DCombine this catch with the one at line 60, which has the same body.(°±âÝ
+t	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(‰Á™‰ýÿÿÿÿ
+o	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ì™¢‹
+o	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(àëõó

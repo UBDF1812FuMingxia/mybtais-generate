@@ -1,0 +1,12 @@
+
+U	java:S106'"9Replace this use of System.out or System.err by a logger.(ÃéÏÚ8²ì •/
+L
+java:S2093"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ8ÙÀŞ •/
+X	java:S125"<This block of commented-out lines of code should be removed.(ÎÍÇ8İıÎ •/
+a
+java:S2147*"DCombine this catch with the one at line 40, which has the same body.(ï­£Ä8ÌÕ •/
+]
+java:S2259."@A "NullPointerException" could be thrown; "br" is nullable here.(µÖ€’8üÈÖ •/
+m	java:S117""QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(É¸Ñ½8¼İê •/
+F
+java:S5869"*Remove duplicates in this character class.(Úçí#8“ßÓ •/

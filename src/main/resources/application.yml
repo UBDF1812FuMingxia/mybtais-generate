@@ -1,0 +1,13 @@
+spring:
+  datasource:
+    url: jdbc:mysql://localhost:3306/test
+    name: root
+    password: 123456
+  profiles:
+    active:
+
+---
+server:
+  port: 8081
+spring:
+  profiles: dev

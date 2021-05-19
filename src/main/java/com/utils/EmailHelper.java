@@ -25,7 +25,7 @@ public class EmailHelper {
     private static final String port = bundle.getString("email.port");
 
     public static void sendEmail(String someone, String subject, String content){
-        Security.addProvider(new com.sun.net.ssl.internal.ssl.Provider());
+        //Security.addProvider(new com.sun.net.ssl.internal.ssl.Provider());
         final String SSL_FACTORY = "javax.net.ssl.SSLSocketFactory";
         Properties properties = new Properties();
         properties.setProperty("mail.host", host);

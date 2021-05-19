@@ -1,0 +1,19 @@
+
+V	java:S106‘"9Replace this use of System.out or System.err by a logger.(©¯ª’8ÄÿÚÊ•/
+m
+java:S1192L"KDefine a constant instead of duplicating this literal "User-Agent" 3 times.(˜ÉˆŸÿÿÿÿÿ8èîèÊ•/
+Z	java:S106T"9Replace this use of System.out or System.err by a logger.(Æö´„ûÿÿÿÿ8Î…­•/
+r	java:S1177"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ğëõµüÿÿÿÿ8‡©ãÊ•/
+m	java:S117!"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÛÑğÒ8İ¥È¦•/
+Y	java:S125Š"<This block of commented-out lines of code should be removed.(„Ä™”8ê™ïÊ•/
+U	java:S106["9Replace this use of System.out or System.err by a logger.(¿¤íÄ8åşõÈ•/
+[	java:S106“"9Replace this use of System.out or System.err by a logger.(ŠÛ¡Ñúÿÿÿÿ8ÌŸÜÊ•/
+Z	java:S106]"9Replace this use of System.out or System.err by a logger.(ŠÛ¡Ñúÿÿÿÿ8³´¡­•/
+Z	java:S106Z"9Replace this use of System.out or System.err by a logger.(¼›šıøÿÿÿÿ8Ä‰ùÈ•/
+Z	java:S106%"9Replace this use of System.out or System.err by a logger.(ê…Ï¿úÿÿÿÿ8İ¥È¦•/
+]	java:S1252"<This block of commented-out lines of code should be removed.(áñ·ùÿÿÿÿÿ8Ùú–É•/
+[	java:S106"9Replace this use of System.out or System.err by a logger.(Æö´„ûÿÿÿÿ8ÄÿÚÊ•/
+i
+java:S1192I"GDefine a constant instead of duplicating this literal "Accept" 3 times.(øƒúëúÿÿÿÿ8èîèÊ•/
+r	java:S1176"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(áñ·ùÿÿÿÿÿ8‡©ãÊ•/
+X	java:S125."<This block of commented-out lines of code should be removed.(§¸‡€8„¦­•/
