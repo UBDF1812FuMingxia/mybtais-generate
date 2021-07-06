@@ -1,0 +1,13 @@
+
+S	java:S106e"9Replace this use of System.out or System.err by a logger.(µ¶Œ÷ûÿÿÿÿ
+N	java:S106="9Replace this use of System.out or System.err by a logger.(§»›»
+k	java:S117b"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(é€¸Åúÿÿÿÿ
+P
+java:S1191"5Use classes from the Java API instead of Sun classes.(÷”†üÿÿÿÿ
+S	java:S106c"9Replace this use of System.out or System.err by a logger.(Â–Åàûÿÿÿÿ
+1
+java:S2438'""Argument 1" is a "Thread".(š›¯¤
+r
+java:S1128"WRemove this unused import 'com.sun.xml.internal.ws.api.message.Packet.Status.Response'.(÷”†üÿÿÿÿ
+P
+java:S1161]":Add the "@Override" annotation above this method signature(“–ış

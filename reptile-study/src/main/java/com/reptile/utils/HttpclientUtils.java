@@ -72,12 +72,12 @@ public class HttpclientUtils {
         HttpclientUtils.httpClientList(url);*/
 
         //2、模拟登录方式登录个人中心
-        /*String user_info_url = "https://www.douban.com/people/237850086/";
+        String user_info_url = "https://www.douban.com/people/237850086/";
         String login_url = "https://accounts.douban.com/j/mobile/login/basic";
-        HttpclientUtils.httpClientLogin(login_url,user_info_url);*/
-        Calendar beforeTime = Calendar.getInstance();
+        HttpclientUtils.httpClientLogin(login_url,user_info_url);
+        /*Calendar beforeTime = Calendar.getInstance();
         Date newTime = beforeTime.getTime();
-        System.out.println(beforeTime.getTime());
+        System.out.println(beforeTime.getTime());*/
     }
 
     /**

@@ -1,0 +1,258 @@
+
+U
+java:S3655¸"7Call "Optional#isPresent()" before accessing the value.(ãª‚»8ò´ûå˜/
+K
+java:S1481")Remove this unused "arr1" local variable.(îç‡Ùÿÿÿÿÿ8ã±Â˜/
+m	java:S117Á"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(²«#8ŞÑÈÉ˜/
+]
+java:S1854W";Remove this useless assignment to local variable "streamA".(í–ª–úÿÿÿÿ8Å«»˜/
+X
+java:S1854>";Remove this useless assignment to local variable "streamC".(«ãúô8–úŸ ˜/
+\
+java:S1854”"9Remove this useless assignment to local variable "list2".(ÔÀüÿÿÿÿ8«¨™Ã˜/
+Z
+java:S1854²"7Remove this useless assignment to local variable "sum".(÷°Á×øÿÿÿÿ8Ü÷å˜/
+P
+java:S1481ù"-Remove this unused "grouped1" local variable.(î…™áûÿÿÿÿ8èñå˜/
+K
+java:S1481•"-Remove this unused "iterate1" local variable.(Î¦œÂ8ò†Øç˜/
+_
+java:S1854ù"<Remove this useless assignment to local variable "grouped1".(î…™áûÿÿÿÿ8èñå˜/
+;
+java:S2119‘"Save and re-use this "Random".(¼İÅf8Ê´Óç˜/
+P
+java:S3958Ñ"2Refactor the code so this stream pipeline is used.(ÚÖÀÇ8¡€¿ä˜/
+W
+java:S1854Û"9Remove this useless assignment to local variable "flag3".(ÿÓ¦ó8´“Óæ˜/
+K
+java:S1481r")Remove this unused "str1" local variable.(œŸÑşÿÿÿÿ8õÔ¿˜/
+V
+java:S1854ì"8Remove this useless assignment to local variable "pVal".(Ÿ„¿¯8Àéïä˜/
+[
+java:S1854µ"8Remove this useless assignment to local variable "map4".(°’÷êıÿÿÿÿ8¸ÆÓÃ˜/
+O
+java:S1481’"1Remove this unused "partitioned2" local variable.(Ä¬÷Ò8åîÀå˜/
+G
+java:S1481ì")Remove this unused "pVal" local variable.(Ÿ„¿¯8Àéïä˜/
+_
+java:S1854¡"<Remove this useless assignment to local variable "reduced2".(ñÎÀéùÿÿÿÿ8îãÓå˜/
+U	java:S106F"9Replace this use of System.out or System.err by a logger.(ä†ëÊ8ùÚåç˜/
+]
+java:S1854g";Remove this useless assignment to local variable "StreamE".(ÊÏçªüÿÿÿÿ8Ñ¥ì¾˜/
+Z
+java:S1854"8Remove this useless assignment to local variable "arr1".(îç‡Ùÿÿÿÿÿ8áì°Â˜/
+Y
+java:S1854Î"6Remove this useless assignment to local variable "s2".(¨úÈÊùÿÿÿÿ8º¬­æ˜/
+H
+java:S1481"*Remove this unused "list1" local variable.(×õ’8í›âÂ˜/
+\
+java:S1854ˆ">Remove this useless assignment to local variable "intStream4".(Ëè’•8ÁÊ¸ç˜/
+P
+java:S1481¥"-Remove this unused "reduced3" local variable.(ªäüÿÿÿÿ8´×íå˜/
+_
+java:S1854¾"<Remove this useless assignment to local variable "iterator".(¥ÍÙ½úÿÿÿÿ8Ç­æ˜/
+U
+java:S3958ß"2Refactor the code so this stream pipeline is used.(”˜‰üÿÿÿÿ8³ûÕä˜/
+V
+java:S1854×"9Remove this useless assignment to local variable "flag2".(ğúp8£ÒĞæ˜/
+N
+java:S3958a"2Refactor the code so this stream pipeline is used.(¡øèP8‚ŸÃ»˜/
+J
+java:S1612¸",Replace this lambda with a method reference.(ãª‚»8ò´ûå˜/
+Z
+java:S3655Ï"7Call "Optional#isPresent()" before accessing the value.(Ô—¡³ıÿÿÿÿ8º¬­æ˜/
+U
+java:S1854x"8Remove this useless assignment to local variable "str3".(¹†Î­8½ú¥Â˜/
+D
+java:S1481É"'Remove this unused "s1" local variable.(ÑÄµ 8¯ñ­æ˜/
+L
+java:S1481é")Remove this unused "skip" local variable.(´ßú€ÿÿÿÿÿ8¯Œèæ˜/
+P
+java:S1481½"-Remove this unused "iterator" local variable.(¾­àÛúÿÿÿÿ8Ç­æ˜/
+]
+java:S1854\";Remove this useless assignment to local variable "streamB".(¬’½ıÿÿÿÿ8¯ú¬»˜/
+K
+java:S1481°"(Remove this unused "max" local variable.(˜Ÿöôøÿÿÿÿ8Ü÷å˜/
+V
+java:S1854¯"8Remove this useless assignment to local variable "map3".(«ì·â8ì±ÌÃ˜/
+W
+java:S1854"9Remove this useless assignment to local variable "list1".(×õ’8í›âÂ˜/
+I
+java:S1481>",Remove this unused "streamC" local variable.(«ãúô8Ï™  ˜/
+Z
+java:S3655…"7Call "Optional#isPresent()" before accessing the value.(íşøÿÿÿÿ8åõ³ç˜/
+H
+java:S1481^",Remove this unused "StreamC" local variable.(‚à´,8£ÄÁ»˜/
+M
+java:S1481€"/Remove this unused "intStream2" local variable.(ç‰¦8›ì¯ç˜/
+Q
+java:S1481’".Remove this unused "generate1" local variable.(ñ—êÿÿÿÿÿ8¶Ã×ç˜/
+W
+java:S1854î"9Remove this useless assignment to local variable "limit".(Ïğ¾“8›‘ìæ˜/
+R
+java:S1481ü"/Remove this unused "intStream1" local variable.(õçË”şÿÿÿÿ8Ë•°ç˜/
+G
+java:S1481ª")Remove this unused "map2" local variable.(‰´Ÿï8òéÇÃ˜/
+a
+java:S1854ü">Remove this useless assignment to local variable "intStream1".(õçË”şÿÿÿÿ8‰Á©ç˜/
+K
+java:S1481â"-Remove this unused "distinct" local variable.(–æÌÔ8‰±Şæ˜/
+H
+java:S1481a",Remove this unused "StreamD" local variable.(¡øèP8ä»Ã»˜/
+M
+java:S1481ˆ"/Remove this unused "intStream4" local variable.(Ëè’•8ÁÊ¸ç˜/
+U
+java:S3958ï"2Refactor the code so this stream pipeline is used.(Ô—¡³ıÿÿÿÿ8›‘ìæ˜/
+R
+java:S1481Ü"/Remove this unused "strSorted1" local variable.(åí„­ÿÿÿÿÿ8àÜÌä˜/
+^
+java:S1854"@Remove this useless assignment to local variable "partitioned1".(¤ÄÉ8İİ¥å˜/
+N
+java:S1481W",Remove this unused "streamA" local variable.(í–ª–úÿÿÿÿ8Å«»˜/
+Y
+java:S1854¨"<Remove this useless assignment to local variable "reduced4".(Å¿38ºñå˜/
+J
+java:S1481Î"'Remove this unused "s2" local variable.(¨úÈÊùÿÿÿÿ8¹Ò­æ˜/
+P
+java:S1481ÿ"-Remove this unused "grouped2" local variable.(ó÷†®øÿÿÿÿ8ı§œå˜/
+Z
+java:S1854°"7Remove this useless assignment to local variable "max".(˜Ÿöôøÿÿÿÿ8Ü÷å˜/
+K
+java:S1481²"(Remove this unused "sum" local variable.(÷°Á×øÿÿÿÿ8Ü÷å˜/
+\
+java:S1854ä"9Remove this useless assignment to local variable "count".(ç‹ıÿÿÿÿ8î»İæ˜/
+|
+java:S1210½"YOverride "equals(Object obj)" to comply with the contract of the "compareTo(T o)" method.(œŸëßùÿÿÿÿ8õá¹ç˜/
+Z
+java:S3655²"7Call "Optional#isPresent()" before accessing the value.(÷°Á×øÿÿÿÿ8Ü÷å˜/
+F
+java:S1481Á")Remove this unused "map_" local variable.(²«#8ŞÑÈÉ˜/
+H
+java:S1481Û"*Remove this unused "flag3" local variable.(ÿÓ¦ó8´“Óæ˜/
+]
+java:S1854?";Remove this useless assignment to local variable "streamD".(—Ê«ıÿÿÿÿ8³ü  ˜/
+U	java:S106M"9Replace this use of System.out or System.err by a logger.(ŒÆªœ8»Èçç˜/
+P
+java:S1481¡"-Remove this unused "reduced2" local variable.(ñÎÀéùÿÿÿÿ8ÏÄÔå˜/
+Z
+java:S3655Ê"7Call "Optional#isPresent()" before accessing the value.(Ô—¡³ıÿÿÿÿ8ë×‘æ˜/
+P
+java:S1481·"-Remove this unused "reduced5" local variable.(¹ö©ıÿÿÿÿ8ò´ûå˜/
+Z
+java:S1854•"<Remove this useless assignment to local variable "iterate1".(Î¦œÂ8ò†Øç˜/
+U
+java:S3958ê"2Refactor the code so this stream pipeline is used.(Ô—¡³ıÿÿÿÿ8¯Œèæ˜/
+G
+java:S1481")Remove this unused "arr2" local variable.(ŒĞÇİ8µ´Â˜/
+L
+java:S1481µ")Remove this unused "map4" local variable.(°’÷êıÿÿÿÿ8ìâÓÃ˜/
+_
+java:S1854·"<Remove this useless assignment to local variable "reduced5".(¹ö©ıÿÿÿÿ8ò´ûå˜/
+N
+java:S3958^"2Refactor the code so this stream pipeline is used.(‚à´,8èİÀ»˜/
+^
+java:S1854“"@Remove this useless assignment to local variable "partitioned2".(¤ÄÉ8åîÀå˜/
+\
+java:S1854à">Remove this useless assignment to local variable "strSorted2".(²¡²á8¯ûÖä˜/
+V	java:S106ö"9Replace this use of System.out or System.err by a logger.(¨Šœş8«Ãóæ˜/
+`
+java:S1854’"=Remove this useless assignment to local variable "generate1".(ñ—êÿÿÿÿÿ8…°×ç˜/
+Z
+java:S3655Ÿ"7Call "Optional#isPresent()" before accessing the value.(¾‘¤¥øÿÿÿÿ8¤ÙÑå˜/
+a
+java:S1854Ü">Remove this useless assignment to local variable "strSorted1".(åí„­ÿÿÿÿÿ8àÜÌä˜/
+l	java:S117a"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¡øèP8ä»Ã»˜/
+S
+java:S1854É"6Remove this useless assignment to local variable "s1".(ÑÄµ 8ë×‘æ˜/
+N
+java:S1481?",Remove this unused "streamD" local variable.(—Ê«ıÿÿÿÿ8é–¡ ˜/
+N
+java:S1481g",Remove this unused "StreamE" local variable.(ÊÏçªüÿÿÿÿ8ÆÍì¾˜/
+G
+java:S1481„")Remove this unused "arr3" local variable.(óÇŒĞ8ÔÅºÂ˜/
+J
+java:S1481¨"-Remove this unused "reduced4" local variable.(Å¿38ºñå˜/
+V
+java:S1854ª"8Remove this useless assignment to local variable "map2".(‰´Ÿï8Ñ«ÇÃ˜/
+L
+java:S1481¤")Remove this unused "map1" local variable.(Õäâ“şÿÿÿÿ8À‰±Ã˜/
+]
+java:S18548";Remove this useless assignment to local variable "streamB".(ÓÖÖğıÿÿÿÿ8©€— ˜/
+H
+java:S1481î"*Remove this unused "limit" local variable.(Ïğ¾“8›‘ìæ˜/
+V
+java:S1854„"8Remove this useless assignment to local variable "arr3".(óÇŒĞ8ÔÅºÂ˜/
+M
+java:S1481„"/Remove this unused "intStream3" local variable.(¥’Á„8åõ³ç˜/
+Z
+java:S1854â"<Remove this useless assignment to local variable "distinct".(–æÌÔ8‰±Şæ˜/
+N
+java:S1481\",Remove this unused "streamB" local variable.(¬’½ıÿÿÿÿ8¯ú¬»˜/
+N
+java:S14818",Remove this unused "streamB" local variable.(ÓÖÖğıÿÿÿÿ8ÿ³— ˜/
+_
+java:S1854"<Remove this useless assignment to local variable "reduced1".(ñ«Ç§ûÿÿÿÿ8¤ÙÑå˜/
+I
+java:S14812",Remove this unused "streamA" local variable.(ìæ¾â8šû… ˜/
+P
+java:S3958â"2Refactor the code so this stream pipeline is used.(–æÌÔ8‰±Şæ˜/
+U
+java:S1854®"7Remove this useless assignment to local variable "min".(Ô‡Í‡8°ğóå˜/
+V
+java:S1854"8Remove this useless assignment to local variable "arr2".(ŒĞÇİ8µ´Â˜/
+F
+java:S1481®"(Remove this unused "min" local variable.(Ô‡Í‡8°ğóå˜/
+G
+java:S1481¯")Remove this unused "map3" local variable.(«ì·â8ì±ÌÃ˜/
+X
+java:S18542";Remove this useless assignment to local variable "streamA".(ìæ¾â8“É… ˜/
+O
+java:S1481Œ"1Remove this unused "partitioned1" local variable.(Íâ»¬8İİ¥å˜/
+Z
+java:S1854r"8Remove this useless assignment to local variable "str1".(œŸÑşÿÿÿÿ8õÔ¿˜/
+M
+java:S1481”"*Remove this unused "list2" local variable.(ÔÀüÿÿÿÿ8«¨™Ã˜/
+O
+java:S3958Ô"2Refactor the code so this stream pipeline is used.(ğ™æq8ö¶Åä˜/
+T
+java:S3958g"2Refactor the code so this stream pipeline is used.(ÊÏçªüÿÿÿÿ8Ñ¥ì¾˜/
+W
+java:S1854a";Remove this useless assignment to local variable "StreamD".(¡øèP8ä»Ã»˜/
+U
+java:S1854Á"8Remove this useless assignment to local variable "map_".(²«#8ŞÑÈÉ˜/
+P
+java:S1481"-Remove this unused "reduced1" local variable.(ñ«Ç§ûÿÿÿÿ8¤ÙÑå˜/
+M
+java:S1481ä"*Remove this unused "count" local variable.(ç‹ıÿÿÿÿ8î»İæ˜/
+F
+java:S1481x")Remove this unused "str3" local variable.(¹†Î­8½ú¥Â˜/
+Z
+java:S1854€"<Remove this useless assignment to local variable "grouped2".(¤ÄÉ8ëó›å˜/
+l	java:S117^"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‚à´,8£ÄÁ»˜/
+H
+java:S1481Ó"*Remove this unused "flag1" local variable.(õ¡øÚ8¹²Éæ˜/
+\
+java:S1854€">Remove this useless assignment to local variable "intStream2".(ç‰¦8›ì¯ç˜/
+r	java:S117g"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÊÏçªüÿÿÿÿ8ÆÍì¾˜/
+U
+java:S3655®"7Call "Optional#isPresent()" before accessing the value.(Ô‡Í‡8°ğóå˜/
+W
+java:S1854^";Remove this useless assignment to local variable "StreamC".(‚à´,8èİÀ»˜/
+G
+java:S1481×"*Remove this unused "flag2" local variable.(ğúp8£ÒĞæ˜/
+[
+java:S1854¤"8Remove this useless assignment to local variable "map1".(Õäâ“şÿÿÿÿ8À‰±Ã˜/
+[
+java:S1854é"8Remove this useless assignment to local variable "skip".(´ßú€ÿÿÿÿÿ8¯Œèæ˜/
+W
+java:S1854Ó"9Remove this useless assignment to local variable "flag1".(õ¡øÚ8¹²Éæ˜/
+Z
+java:S3655¦"7Call "Optional#isPresent()" before accessing the value.(œø›Üıÿÿÿÿ8´×íå˜/
+Z
+java:S3655°"7Call "Optional#isPresent()" before accessing the value.(˜Ÿöôøÿÿÿÿ8Ü÷å˜/
+M
+java:S1481à"/Remove this unused "strSorted2" local variable.(²¡²á8ˆÇ×ä˜/
+\
+java:S1854„">Remove this useless assignment to local variable "intStream3".(¥’Á„8åõ³ç˜/
+_
+java:S1854¥"<Remove this useless assignment to local variable "reduced3".(ªäüÿÿÿÿ8´×íå˜/

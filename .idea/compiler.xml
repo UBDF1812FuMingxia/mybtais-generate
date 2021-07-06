@@ -6,11 +6,13 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="mybatis-code" />
         <module name="reptile-study" />
+        <module name="mybatis-code" />
+        <module name="exam" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="exam" target="1.8" />
       <module name="mybatis-code" target="1.8" />
       <module name="mybatis-generator" target="1.8" />
       <module name="reptile-study" target="1.8" />
@@ -18,6 +20,7 @@
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="exam" options="-parameters" />
       <module name="mybatis-code" options="-parameters" />
       <module name="mybatis-generator" options="-parameters" />
       <module name="reptile-study" options="-parameters" />

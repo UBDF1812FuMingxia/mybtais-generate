@@ -1,0 +1,17 @@
+
+F
+java:S1481i")Remove this unused "body" local variable.(ÆúŒÀ8ò¦šê™/
+n
+java:S2095d"QUse try-with-resources or close this "CloseableHttpClient" in a "finally" clause.(ýê”Ê8‰ã—ê™/
+r	java:S1171"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(áŠ°»ûÿÿÿÿ8Ñ†¯ò˜/
+]	java:S125="<This block of commented-out lines of code should be removed.(§¿ë¨úÿÿÿÿ8ß×ôé™/
+U	java:S1066"9Replace this use of System.out or System.err by a logger.(îžóü8È…´ò˜/
+n
+java:S2095I"QUse try-with-resources or close this "CloseableHttpClient" in a "finally" clause.(ýê”Ê8É­—ê™/
+U
+java:S1854i"8Remove this useless assignment to local variable "body".(ÆúŒÀ8ò¦šê™/
+U	java:S106l"9Replace this use of System.out or System.err by a logger.(¦û…Ã8‰ã—ê™/
+]	java:S1253"<This block of commented-out lines of code should be removed.(¾ø¥ßÿÿÿÿÿ8Ú‹›â™/
+U	java:S106W"9Replace this use of System.out or System.err by a logger.(ÔëÍŽ8É­—ê™/
+U	java:S106Z"9Replace this use of System.out or System.err by a logger.(¦û…Ã8É­—ê™/
+X	java:S125j"<This block of commented-out lines of code should be removed.(òè§»8Ö¢´ê™/

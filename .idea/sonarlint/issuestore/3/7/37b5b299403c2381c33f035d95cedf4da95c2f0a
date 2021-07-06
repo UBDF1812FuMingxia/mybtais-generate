@@ -1,23 +1,18 @@
 
-U	java:S106;"9Replace this use of System.out or System.err by a logger.(¤­é¯8ï÷Â¬•/
-n
-java:S2095 "QUse try-with-resources or close this "CloseableHttpClient" in a "finally" clause.(ıê”Ê8©Ç“¬•/
-m	java:S117p"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›ƒö•8ç²ÑÑ•/
-X	java:S125G"<This block of commented-out lines of code should be removed.(§¸‡€8Í¥®Ñ•/
-H
-java:S1481O",Remove this unused "newTime" local variable.(…«Øa8“…¹ñ•/
-W
-java:S1854O";Remove this useless assignment to local variable "newTime".(…«Øa8“…¹ñ•/
-M
-java:S6035+"0Replace this alternation with a character class.(ò„ ¼8†‘¢¬•/
-U	java:S106>"9Replace this use of System.out or System.err by a logger.(¦û…Ã8ıÃÄ¬•/
-
-java:S1130E"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(ÙØ¤Şıÿÿÿÿ8½Ùºñ•/
-U	java:S106P"9Replace this use of System.out or System.err by a logger.(İ…È8½Ùºñ•/
-Z	java:S106w"9Replace this use of System.out or System.err by a logger.(Ÿ ÿıÿÿÿÿ8î¬ÛÑ•/
-U	java:S1068"9Replace this use of System.out or System.err by a logger.(ÎËÛä8ô¿¬•/
 g	java:S112["FDefine and throw a dedicated exception instead of using a generic one.(¢®í×ıÿÿÿÿ8Ú°Ñ•/
-X	java:S125K"<This block of commented-out lines of code should be removed.(ËÌ†ğ8²úÄÕ•/
+r	java:S117L"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ğëõµüÿÿÿÿ8ü‹³à™/
+X	java:S125N"<This block of commented-out lines of code should be removed.(‚ì8Êì²à™/
 n
 java:S2095\"QUse try-with-resources or close this "CloseableHttpClient" in a "finally" clause.(ıê”Ê8ç²ÑÑ•/
+r	java:S117K"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(áñ·ùÿÿÿÿÿ8ü‹³à™/
+M
+java:S6035+"0Replace this alternation with a character class.(ò„ ¼8†‘¢¬•/
+n
+java:S2095 "QUse try-with-resources or close this "CloseableHttpClient" in a "finally" clause.(ıê”Ê8©Ç“¬•/
 Z	java:S106u"9Replace this use of System.out or System.err by a logger.(Å›ĞÎúÿÿÿÿ8âÌÙÑ•/
+m	java:S117p"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›ƒö•8ç²ÑÑ•/
+U	java:S106>"9Replace this use of System.out or System.err by a logger.(¦û…Ã8ıÃÄ¬•/
+X	java:S125G"<This block of commented-out lines of code should be removed.(§¸‡€8Í¥®Ñ•/
+Z	java:S106w"9Replace this use of System.out or System.err by a logger.(Ÿ ÿıÿÿÿÿ8î¬ÛÑ•/
+U	java:S1068"9Replace this use of System.out or System.err by a logger.(ÎËÛä8ô¿¬•/
+U	java:S106;"9Replace this use of System.out or System.err by a logger.(¤­é¯8ï÷Â¬•/

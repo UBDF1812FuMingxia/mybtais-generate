@@ -1,0 +1,6 @@
+
+±
+java:S4449*"ŽAnnotate the parameter with @javax.annotation.Nullable in method 'exchange' declaration, or make sure that null can not be passed as argument.(œþÓ³ýÿÿÿÿ8éô“»š/
+[	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(•Î´µ
+q
+java:S14880"[Immediately return this expression instead of assigning it to the temporary variable "uid".(˜†¸Ž
