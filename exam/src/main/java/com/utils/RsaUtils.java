@@ -87,7 +87,7 @@ public class RsaUtils {
      * @throws Exception
      */
     public static byte[] decrybt(PrivateKey privateKey ,byte[] data) throws Exception {
-        Cipher ci = Cipher.getInstance(ALGORITHOM);
+        Cipher ci = Cipher.getInstance(ALGORITHOM,DEFAULT_PROVIDER);
         ci.init(Cipher.DECRYPT_MODE,privateKey);
         return ci.doFinal(data);
     }

@@ -1,0 +1,23 @@
+
+e
+java:S2259è"GA "NullPointerException" could be thrown; "publicKey" is nullable here.(≤ªÀ–8Éôä’ß/
+X	java:S125"<This block of commented-out lines of code should be removed.(¬πçù8Ûæá÷ß/
+r	java:S117n"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æûÂ…˚ˇˇˇˇ8…—◊‘ß/
+g
+java:S2147s"ECombine this catch with the one at line 113, which has the same body.(±üó±ˇˇˇˇˇ8Æ‚ÿ‘ß/
+g
+java:S2259o"EA "NullPointerException" could be thrown; "keyPair" is nullable here.(ˆÕı∞˝ˇˇˇˇ8¸ﬁ€‘ß/
+v
+java:S1450'"YRemove the "oneKeyPair" field and declare it as a local variable in the relevant methods.(¯¨ú8ëáØ‘ß/
+@
+java:S5542Z"#Use secure mode and padding scheme.(ﬂ·Óë8ˆéƒ‘ß/
+[	java:S106í"9Replace this use of System.out or System.err by a logger.(≈‰Ï£˚ˇˇˇˇ8Õ®ç’ß/
+V	java:S106¢"9Replace this use of System.out or System.err by a logger.(öË÷¶8∂ï’ß/
+g	java:S112Y"FDefine and throw a dedicated exception instead of using a generic one.(ÎªÄ´˛ˇˇˇˇ8íùº‘ß/
+V	java:S106é"9Replace this use of System.out or System.err by a logger.(ì»É8ƒ¯á’ß/
+R
+java:S1905o"0Remove this unnecessary cast to "RSAPrivateKey".(ˆÕı∞˝ˇˇˇˇ8¸ﬁ€‘ß/
+f
+java:S2147A"DCombine this catch with the one at line 63, which has the same body.(âïèí˛ˇˇˇˇ8ëáØ‘ß/
+K
+java:S1068#".Remove this unused "keyFactory" private field.(ÿª√Ä8©•È”ß/
