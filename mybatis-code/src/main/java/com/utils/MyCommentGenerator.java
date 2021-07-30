@@ -8,6 +8,7 @@ import org.mybatis.generator.api.dom.xml.XmlElement;
 import org.mybatis.generator.config.MergeConstants;
 import org.mybatis.generator.config.PropertyRegistry;
 
+import java.text.DateFormat;
 import java.text.SimpleDateFormat;
 import java.util.Date;
 import java.util.Properties;
@@ -310,5 +311,20 @@ public class MyCommentGenerator implements CommentGenerator {
             sb.append(s);
         }
         javaElement.addJavaDocLine(sb.toString());
+    }
+
+    public static void main(String[] args) {
+        //会有print先打印异常在打印的情况
+        try {
+            String string = null;
+            if (string.equals("")) {
+                System.out.println(string);
+            }
+        } catch (NullPointerException e) {
+            e.printStackTrace();
+            throw new BusinessException(e.getMessage());
+        }
+        System.out.println("-------------------");
+
     }
 }

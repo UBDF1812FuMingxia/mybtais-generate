@@ -1,5 +1,8 @@
 package com.test;
 
+import com.utils.JacksonHelper;
+import com.utils.Log4jHelper;
+
 import java.util.Locale;
 import java.util.ResourceBundle;
 
@@ -22,6 +25,7 @@ public class TestResourceBundle {
          * 需要注意的时：这个properties文件的名字是有规范的：一般的命名规范是：
          *              自定义名_语言代码_国别代码.properties
          */
+        Log4jHelper.info("测试完成");
         Locale locale = new Locale("zh", "CN");
         ResourceBundle myres = ResourceBundle.getBundle("myres", locale);
         System.out.println(myres.getString("aaa"));
@@ -32,5 +36,8 @@ public class TestResourceBundle {
         Locale locale1 = new Locale("en", "US");
         ResourceBundle myres2 = ResourceBundle.getBundle("myres", locale1);
         System.out.println(myres2.getString("aaa"));
+        JacksonHelper.toJSON(myres2);
+
     }
+
 }
