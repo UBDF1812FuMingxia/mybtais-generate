@@ -65,11 +65,25 @@ public class DefinedClassLoaderExam extends ClassLoader {
     public static void main(String[] args) throws ClassNotFoundException, IllegalAccessException, InstantiationException {
         DefinedClassLoaderExam classLoaderExam = new DefinedClassLoaderExam();
         Class<?> cl = Class.
-                forName("com.exam.classLoadExam",
+                forName("com.exam.classLoadExam.Person",
                         true, classLoaderExam);
         Object obj = cl.newInstance();
         System.out.println(obj);
         System.out.println(obj.getClass().getClassLoader());
+
+        /*StringBuilder stringBuilder = new StringBuilder("abdcdc");
+        String string = stringBuilder.toString();
+        byte[] bytes = string.getBytes();
+        for (byte b :
+                bytes) {
+            System.out.println(b);
+        }
+        char[] chars = string.toCharArray();
+        for (char c :
+                chars) {
+            System.out.println(c);
+        }
+        System.out.println(stringBuilder.reverse());*/
     }
 }
 
