@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<request>
+    <cancelReason>取消了</cancelReason>
+    <orderCode>RK21082709175195456</orderCode>
+    <orderId>OSI202108270001</orderId>
+    <orderType>QTCK</orderType>
+    <ownerCode>wms_lt_yimeiWDT</ownerCode>
+    <warehouseCode>wms_lt_yimeiWDT</warehouseCode>
+</request>

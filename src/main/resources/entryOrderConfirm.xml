@@ -1,23 +1,49 @@
 <?xml version="1.0" encoding="utf-8"?>
-<request>
-    <returnOrder>
-        <returnOrderCode>21042314271671754</returnOrderCode>
+<!--<request>
+    <entryOrder>
+        <entryOrderCode>RK21082511105141595</entryOrderCode>
         <warehouseCode>wms_lt_yimeiWDT</warehouseCode>
-        <returnOrderId>642</returnOrderId>
-        <senderInfo>
-            <name>张三</name>
-            <mobile>13245659080</mobile>
-            <province>山西省</province>
-            <city>太原市</city>
-            <area>海淀区</area>
-            <detailAddress>1号楼</detailAddress>
-        </senderInfo>
-    </returnOrder>
+        <entryOrderId>687</entryOrderId>
+        <outBizCode>222222</outBizCode>
+        <status>FULFILLED</status>
+    </entryOrder>
     <orderLines>
         <orderLine>
-            <itemCode>5KSM3311XCHW</itemCode>
-            <itemId>1014671</itemId>
-            <actualQty>50</actualQty>
+            <itemCode>6972356061506</itemCode>
+            <itemId>410</itemId>
+            <actualQty>5</actualQty>
         </orderLine>
     </orderLines>
+</request>-->
+
+
+<request>
+<entryOrder>
+    <entryOrderCode>RK21082614030947543</entryOrderCode>
+    <entryOrderId>RK202108260011</entryOrderId>
+    <warehouseCode>wms_lt_yimeiWDT</warehouseCode>
+    <ownerCode>wms_lt_yimeiWDT</ownerCode>
+    <entryOrderType>QTRK</entryOrderType>
+    <outBizCode>RK202108260011</outBizCode>
+    <confirmType>1</confirmType>
+    <status>FULFILLED</status>
+    <operateTime>2021-08-26 14:06:00</operateTime>
+    <remark></remark>
+</entryOrder>
+<orderLines>
+    <orderLine>
+        <itemCode>202108261118</itemCode>
+        <inventoryType>ZP</inventoryType>
+        <actualQty>2</actualQty>
+        <batchs>
+            <batch>
+                <batchCode></batchCode>
+                <productDate></productDate>
+                <expireDate></expireDate>
+                <actualQty>2</actualQty>
+                <inventoryType>ZP</inventoryType>
+            </batch>
+        </batchs>
+    </orderLine>
+</orderLines>
 </request>
