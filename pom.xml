@@ -193,6 +193,14 @@
 <!--            <scope>test</scope>--> <!--该注解使用的范围-->
         </dependency>
 
+        <!-- 将汉字转换成拼音 -->
+        <!-- https://mvnrepository.com/artifact/com.belerweb/pinyin4j -->
+        <dependency>
+            <groupId>com.belerweb</groupId>
+            <artifactId>pinyin4j</artifactId>
+            <version>2.5.0</version>
+        </dependency>
+
 
 
     </dependencies>
