@@ -60,6 +60,15 @@ public class Exam {
 
         //判断一个值是否是整数
         System.out.println(isNumeric("2323"));
+
+        String s = ".a....b....";
+        String[] split = s.split("\\.");
+        System.out.println(split.length);
+
+        List<Integer> list = new ArrayList<>();
+        list.add(3);
+        list.add(0,1);
+        list.stream().forEach(System.out::print);
     }
 
     public static boolean isNumeric(String str){
